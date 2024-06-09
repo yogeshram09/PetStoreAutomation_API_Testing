@@ -1,0 +1,33 @@
+00:54:36.689 [main] INFO  api.test.UserTests -  ******************* Set Up the Data ******************* 
+00:54:36.714 [main] INFO  api.test.UserTests -  ******************* Creating User ******************* 
+00:54:40.863 [main] INFO  api.test.UserTests -  ******************* User Created Successfully..!! ******************* 
+00:54:40.875 [main] INFO  api.test.UserTests -  ******************* Reading User ******************* 
+00:54:42.708 [main] INFO  api.test.UserTests -  ******************* User Read Successfully..!! ******************* 
+00:54:42.716 [main] INFO  api.test.UserTests -  ******************* Updating User ******************* 
+00:54:44.308 [main] INFO  api.test.UserTests -  ******************* User Updated Successfully..!! ******************* 
+00:54:44.309 [main] INFO  api.test.UserTests -  ******************* Reading Updating User ******************* 
+00:54:45.913 [main] INFO  api.test.UserTests -  ******************* Updated User Read Successfully..!! ******************* 
+00:54:45.917 [main] INFO  api.test.UserTests -  ******************* Deleting User ******************* 
+00:54:47.513 [main] INFO  api.test.UserTests -  ******************* User Deleted Successfully..!! ******************* 
+05:21:12.356 [main] INFO  api.test.UserTests -  ******************* Set Up the Data ******************* 
+05:21:12.386 [main] INFO  api.test.UserTests -  ******************* Creating User ******************* 
+05:21:16.780 [main] INFO  api.test.UserTests -  ******************* User Created Successfully..!! ******************* 
+05:21:16.797 [main] INFO  api.test.UserTests -  ******************* Reading User ******************* 
+05:21:18.089 [main] INFO  api.test.UserTests -  ******************* User Read Successfully..!! ******************* 
+05:21:18.093 [main] INFO  api.test.UserTests -  ******************* Updating User ******************* 
+05:21:19.416 [main] INFO  api.test.UserTests -  ******************* User Updated Successfully..!! ******************* 
+05:21:19.416 [main] INFO  api.test.UserTests -  ******************* Reading Updating User ******************* 
+05:21:20.778 [main] INFO  api.test.UserTests -  ******************* Updated User Read Successfully..!! ******************* 
+05:21:20.781 [main] INFO  api.test.UserTests -  ******************* Deleting User ******************* 
+05:21:22.023 [main] INFO  api.test.UserTests -  ******************* User Deleted Successfully..!! ******************* 
+05:25:25.980 [main] INFO  api.test.UserTests -  ******************* Set Up the Data ******************* 
+05:25:26.010 [main] INFO  api.test.UserTests -  ******************* Creating User ******************* 
+05:25:30.626 [main] INFO  api.test.UserTests -  ******************* User Created Successfully..!! ******************* 
+05:25:30.641 [main] INFO  api.test.UserTests -  ******************* Reading User ******************* 
+05:25:32.050 [main] INFO  api.test.UserTests -  ******************* User Read Successfully..!! ******************* 
+05:25:32.054 [main] INFO  api.test.UserTests -  ******************* Updating User ******************* 
+05:25:35.144 [main] INFO  api.test.UserTests -  ******************* User Updated Successfully..!! ******************* 
+05:25:35.144 [main] INFO  api.test.UserTests -  ******************* Reading Updating User ******************* 
+05:25:36.444 [main] INFO  api.test.UserTests -  ******************* Updated User Read Successfully..!! ******************* 
+05:25:36.448 [main] INFO  api.test.UserTests -  ******************* Deleting User ******************* 
+05:25:37.763 [main] INFO  api.test.UserTests -  ******************* User Deleted Successfully..!! ******************* 
